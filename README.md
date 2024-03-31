@@ -21,5 +21,3 @@
 </div>
 
 #### Apaixonado por tecnologia!!
-
-
