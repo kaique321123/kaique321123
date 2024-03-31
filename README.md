@@ -6,7 +6,10 @@
 </div>
 <br>
 
-![kaique321123's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique321123&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique321123&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![kaique321123's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique321123&show_icons=true&theme=radical) 
+
 
 ### Tecnologias que estou aprendendo sozinho/faculdade Javascript, Node.js, React.js, Next.js para implementações web
 <div style="display: inline_block"><br>
