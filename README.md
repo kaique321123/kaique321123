@@ -20,4 +20,7 @@
     <img  align="center" alt="Kaique-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 </div>
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kaique321123/kaique321123/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+
+
 #### Apaixonado por tecnologia!!
