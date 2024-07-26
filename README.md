@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaique-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img  align="center" alt="Kaique-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img  align="center" alt="Kaique-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+  <img  align="center" alt="Kaique-Python" height="30" width="40" src="https://img.icons8.com/color/144/000000/python--v1.png">
 </div>
 
 
