@@ -19,3 +19,5 @@
   <img  align="center" alt="Kaique-Python" height="40" width="40" src="https://img.icons8.com/color/144/000000/python--v1.png">
    <img  align="center" alt="Kaique-R" height="40" width="40" src="https://img.icons8.com/?size=100&id=p8Cs0Q1HzzH5&format=png&color=000000">
 </div>
+
+![Snake animation](https://github.com/kaique321123/kaique321123/blob/output/github-contribution-grid-snake.svg)
