@@ -14,7 +14,6 @@
 ### Tecnologias que estou me desenvolvendo
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaique-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img  align="center" alt="Kaique-Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
     <img  align="center" alt="Kaique-SQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=v13GOfYIdvlQ&format=png&color=000000">
   <img  align="center" alt="Kaique-Python" height="40" width="40" src="https://img.icons8.com/color/144/000000/python--v1.png">
    <img  align="center" alt="Kaique-R" height="40" width="40" src="https://img.icons8.com/?size=100&id=p8Cs0Q1HzzH5&format=png&color=000000">
